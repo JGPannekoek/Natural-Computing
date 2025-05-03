@@ -1,0 +1,4 @@
+What kind of metrics can we use?
+
+What types of emergent behavior do we want to see?
+
