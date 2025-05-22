@@ -7,7 +7,7 @@ stations <- read_csv("nodes.csv")
 cities <- read_csv("cities.csv")
 
 # Too many stations in the west side of the country, try to balance
-to_remove <- c('Schiedam Centrum', 'Rijswijk', 'Capelle Schollevaar', 'Heerhugowaard', 'Zaandam', 'Hoofddorp', 'Roosendaal', 'Oss', 'Delft', 'Zoetermeer', 'Alphen a/d Rijn', 'Purmerend', 'Veenendaal-De Klomp')
+to_remove <- c('Schiedam Centrum', 'Rijswijk', 'Capelle Schollevaar', 'Heerhugowaard', 'Zaandam', 'Hoofddorp', 'Roosendaal', 'Oss', 'Delft', 'Zoetermeer', 'Alphen a/d Rijn', 'Purmerend', 'Veenendaal-De Klomp', 'Hengelo', 'Tilburg', 'Helmond')
 
 # Add extremes
 cities <- cities %>%
