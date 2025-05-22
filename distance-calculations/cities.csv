@@ -1,0 +1,55 @@
+index,city,province,num_inhabitants,main_station
+1,Amsterdam,Noord-Holland,902645,Amsterdam Centraal
+2,Rotterdam,Zuid-Holland,600025,Rotterdam Centraal
+3,Den Haag,Zuid-Holland,562460,Den Haag Centraal
+4,Utrecht,Utrecht,316460,Utrecht Centraal
+5,Eindhoven,Noord-Brabant,243710,Eindhoven Centraal
+6,Almere,Flevoland,222830,Almere Centrum
+7,Groningen,Groningen,217020,Groningen
+8,Tilburg,Noord-Brabant,203690,Tilburg
+9,Nijmegen,Gelderland,182490,Nijmegen
+10,Arnhem,Gelderland,165775,Arnhem Centraal
+11,Haarlem,Noord-Holland,164775,Haarlem
+12,Amersfoort,Utrecht,155890,Amersfoort Centraal
+13,Breda,Noord-Brabant,151765,Breda
+14,Apeldoorn,Gelderland,147175,Apeldoorn
+15,Enschede,Overijssel,134295,Enschede
+16,Zwolle,Overijssel,132410,Zwolle
+17,Leiden,Zuid-Holland,127095,Leiden
+18,Zoetermeer,Zuid-Holland,127000,Zoetermeer
+19,Maastricht,Limburg,122740,Maastricht
+20,Dordrecht,Zuid-Holland,121440,Dordrecht
+21,'s-Hertogenbosch,Noord-Brabant,112825,'s-Hertogenbosch
+22,Delft,Zuid-Holland,106085,Delft
+23,Leeuwarden,Friesland,98540,Leeuwarden
+24,Helmond,Noord-Brabant,94895,Helmond
+25,Amstelveen,Noord-Holland,94410,
+26,Alkmaar,Noord-Holland,94330,Alkmaar
+27,Hilversum,Noord-Holland,93325,Hilversum
+28,Deventer,Overijssel,84005,Deventer
+29,Lelystad,Flevoland,83035,Lelystad Centrum
+30,Purmerend,Noord-Holland,82635,Purmerend
+31,Hengelo,Overijssel,82310,Hengelo
+32,Zaandam,Noord-Holland,80705,Zaandam
+33,Schiedam,Zuid-Holland,80635,Schiedam Centrum
+34,Hoofddorp,Noord-Holland,79650,Hoofddorp
+35,Ede,Gelderland,79435,Ede-Wageningen
+36,Gouda,Zuid-Holland,75310,Gouda
+37,Hoorn,Noord-Holland,75224,Hoorn
+38,Vlaardingen,Zuid-Holland,75075,
+39,Alphen aan den Rijn,Zuid-Holland,74755,Alphen a/d Rijn
+40,Spijkenisse,Zuid-Holland,72585,
+41,Almelo,Overijssel,70345,Almelo
+42,Assen,Drenthe,69410,Assen
+43,Veenendaal,Utrecht,68520,Veenendaal-De Klomp
+44,Heerlen,Limburg,68335,Heerlen
+45,Capelle aan den IJssel,Zuid-Holland,67550,Capelle Schollevaar
+46,Roosendaal,Noord-Brabant,66740,Roosendaal
+47,Nieuwegein,Utrecht,65425,
+48,Heerhugowaard,Noord-Holland,60230,Heerhugowaard
+49,Oss,Noord-Brabant,59740,Oss
+50,Emmen,Drenthe,58130,Emmen
+51,Rijswijk,Zuid-Holland,58000,Rijswijk
+52,Zeist,Utrecht,56895,Zeist
+53,Bergen op Zoom,Noord-Brabant,54440,Bergen op Zoom
+54, Middelburg,Zeeland,43165,Middelburg

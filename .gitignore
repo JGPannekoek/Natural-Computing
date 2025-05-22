@@ -176,3 +176,7 @@ cython_debug/
 # ignore .gif files
 # *.gif
 # gifs/*
+
+# R stuff:
+.RData
+.Rhistory
