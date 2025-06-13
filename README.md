@@ -12,15 +12,12 @@ This repository contains code and data for simulating slime mold-inspired networ
 ├── noise_custom.py
 ├── distance-calculations/
 │   ├── map.ipynb
-│   ├── map.html
 │   ├── output.json
 │   ├── outline.png
 │   ├── nodes.csv
 │   ├── edges.csv
-│   ├── edges_of_interest.csv
 │   ├── stations_of_interest.csv
 │   └── ... (other geo/data files)
-├── experiment_outputs/
 ├── experiment_outputs_different_starts/
 ├── experiment_outputs_same_starts/
 ├── results/
@@ -54,7 +51,7 @@ This repository contains code and data for simulating slime mold-inspired networ
 - **Key Files:**
   - `map.ipynb`: Generates the simulation grid, overlays stations, and saves the grid as `output.json`.
   - `output.json`: The grid used by the simulation, encoding land, water, and station locations.
-  - `nodes.csv`, `edges.csv`, `edges_of_interest.csv`: Data for the Dutch railway network.
+  - `nodes.csv`, `edges.csv`: Data for the Dutch railway network.
   - `outline.png`: Image used for grid generation.
   - `map.html`: Interactive map visualization.
 
@@ -78,7 +75,7 @@ This repository contains code and data for simulating slime mold-inspired networ
 ## Workflow Overview
 
 1. **Grid Generation:**  
-   Use [`distance-calculations/map.ipynb`](distance-calculations/map.ipynb) to generate the simulation grid (`output.json`) and map station locations.
+   Use [`distance-calculations/map.ipynb`](distance-calculations/map.ipynb) to generate the simulation grid (`output.json`) and map station locations. Note that this step includes a manual photoshop step.
 
 2. **Simulation:**  
    Run [`experiment_pipeline.ipynb`](experiment_pipeline.ipynb) to simulate slime mold foraging, saving results in the appropriate output folder.
